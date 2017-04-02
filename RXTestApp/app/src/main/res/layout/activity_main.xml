@@ -12,7 +12,8 @@
     tools:context="com.andrei.rxtestapp.MainActivity">
 
     <TextView
+        android:id="@+id/hello_rx_textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"/>
+        android:text="Hello RX!"/>
 </RelativeLayout>
